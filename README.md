@@ -8,9 +8,9 @@ To design this system these are the folllowing requirements:-
   <li>Datasbase - haarcascade_frontalface_default.xml</li>
 
   <li>System specification used :- Windows 11</li>
-                               8GB RAM</li>
-                               Intel Core i5</li>
-                              Intel iRISXe Graphics</li>
+                               <li>8GB RAM</li>
+                               <li>Intel Core i5</li>
+                              <li>Intel iRISXe Graphics</li>
   </ul>
 
   <b>Installation Guidance</b> 
