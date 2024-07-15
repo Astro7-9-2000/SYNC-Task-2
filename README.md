@@ -16,7 +16,7 @@ To design this system these are the folllowing requirements:-
   <b>Installation Guidance</b> 
   
   <ol>
-  <li>First install Python version 3.8 from the official site https://www.python.org/downloads/ <li>
+  <li> First install Python version 3.8 from the official site https://www.python.org/downloads/ <li>
   <li>Install the required libraries Numpy and opencv using pip command. </li>
   <li>Download the images that you want to use for your training dataset. <li>
   <li>Download haarcascade_frontalface_default.xml file by clicking this link. <li>
